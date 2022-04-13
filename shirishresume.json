@@ -1,0 +1,60 @@
+let Resume={
+    "Basics": {
+      "Name": "SHIRISH GANDHARE",
+      "E-mail": "gandhare.shirish@gamil.com",
+      "Graduation": "BE-Production Engineering",
+      "Post-Graduation":"M.Tech- Industrial Engineering"
+"Communication Details": {
+        "Address": "Sant Gomaji Ward Sai Colony Hinganghat ",
+        "PinCode": 442301,
+        "District": "Wardha",
+        "State": "Maharashtra",
+        "country": "India",
+        "Mobile": 9673992174,
+      },
+      "SocialProfiles": [
+        {
+          "LinkedIn": "https://www.linkedin.com/in/shirish-gandhare-70469980/",
+          "github":"https://github.com/gandhareshirish"
+        }
+      ]
+    },
+    "work Profile": [
+      {
+        "Institution": "Datta Meghe Institute of Engineering,Technology and Research Wardha",
+        "Post": "Assistant Professor",
+        "JoiningDate": "2020-11-04",
+        "EndDate": "2022-04-13",
+        "Profile": "Serving as a Assistant professor and Incubation Coordinator",
+      },
+    ],
+    "Education": [
+      {
+        "DegreeCollege": "Bapurao Deshmukh College of Engineering Sevagram Wardha",
+        "Branch": "Mechanical Engineering",
+        "batch start year": 2003,
+        "batch end year": 2007,
+        "Percentage": 61.75,
+      }
+    ],
+    "Softskills": [
+      {
+        "Name": "javascript",
+        "Level": "beginner",
+        "Project": [
+          "Presently Typing Resume in JavaScript."
+        ]
+      }
+    ],
+    "Languages": [
+      {
+        "language": "Hindi,Marathi,Enlish",
+      }
+    ],
+    "Interests": [
+      {
+        "name": "Blog writing in Marathi,Poem,",
+      }
+    ]
+  }
+  console.log(myResume);
